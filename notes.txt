@@ -1,0 +1,5 @@
+mongo 
+user gabrielvieira840
+password LxJNBBvOiuxHQqf4
+
+mongodb+srv://gabrielvieira840:<password>@cluster0.ocmazir.mongodb.net/?retryWrites=true&w=majority
